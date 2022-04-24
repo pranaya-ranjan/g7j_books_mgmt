@@ -1,2 +1,2 @@
-# g7j_demo_book_lib
-Demo App for Book Management
+# Notes and Books
+My  learning Documents
